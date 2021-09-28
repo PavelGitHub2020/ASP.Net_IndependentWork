@@ -1,0 +1,35 @@
+﻿@model ListOfTrackBLL.VMs.Track.CreateTrack
+
+<h2>Поиск</h2>
+<form method="get" asp-controller="Account" asp-action="Track">
+
+    <div asp-validation-summary="ModelOnly"></div>
+    <div>
+        <label asp-for="NameOfTrack"></label><br />
+        <input asp-for="NameOfTrack" />
+        <span asp-validation-for="NameOfTrack"></span>
+    </div>
+    <div>
+        <label asp-for="ArtistName"></label><br />
+        <input asp-for="ArtistName" />
+        <span asp-validation-for="ArtistName"></span>
+    </div>
+    <div>
+        <label asp-for="Extension"></label><br />
+        <input asp-for="Extension" />
+        <span asp-validation-for="Extension"></span>
+    </div>
+    <div>
+        <label asp-for="Rating"></label><br />
+        <input asp-for="Rating" />
+        <span asp-validation-for="Rating"></span>
+    </div>
+    <div>
+        <label asp-for="Genre"></label><br />
+        <input asp-for="Genre" />
+        <span asp-validation-for="Genre"></span>
+    </div>
+    <div>
+        <input type="submit" value="Поиск" />
+    </div>
+</form>

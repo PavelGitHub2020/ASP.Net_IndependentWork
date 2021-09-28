@@ -1,0 +1,15 @@
+B:\учебный проект\для примеров\C#Lessons\ListOfTrackAPI\ListOfTrackBLL\bin\Debug\netcoreapp3.1\ListOfTrackBLL.deps.json
+B:\учебный проект\для примеров\C#Lessons\ListOfTrackAPI\ListOfTrackBLL\bin\Debug\netcoreapp3.1\ListOfTrackBLL.dll
+B:\учебный проект\для примеров\C#Lessons\ListOfTrackAPI\ListOfTrackBLL\bin\Debug\netcoreapp3.1\ListOfTrackBLL.pdb
+B:\учебный проект\для примеров\C#Lessons\ListOfTrackAPI\ListOfTrackBLL\bin\Debug\netcoreapp3.1\ListOfTrackDAL.dll
+B:\учебный проект\для примеров\C#Lessons\ListOfTrackAPI\ListOfTrackBLL\bin\Debug\netcoreapp3.1\ListOfTrackModels.dll
+B:\учебный проект\для примеров\C#Lessons\ListOfTrackAPI\ListOfTrackBLL\bin\Debug\netcoreapp3.1\ListOfTrackDAL.pdb
+B:\учебный проект\для примеров\C#Lessons\ListOfTrackAPI\ListOfTrackBLL\bin\Debug\netcoreapp3.1\ListOfTrackModels.pdb
+B:\учебный проект\для примеров\C#Lessons\ListOfTrackAPI\ListOfTrackBLL\obj\Debug\netcoreapp3.1\ListOfTrackBLL.csproj.AssemblyReference.cache
+B:\учебный проект\для примеров\C#Lessons\ListOfTrackAPI\ListOfTrackBLL\obj\Debug\netcoreapp3.1\ListOfTrackBLL.GeneratedMSBuildEditorConfig.editorconfig
+B:\учебный проект\для примеров\C#Lessons\ListOfTrackAPI\ListOfTrackBLL\obj\Debug\netcoreapp3.1\ListOfTrackBLL.AssemblyInfoInputs.cache
+B:\учебный проект\для примеров\C#Lessons\ListOfTrackAPI\ListOfTrackBLL\obj\Debug\netcoreapp3.1\ListOfTrackBLL.AssemblyInfo.cs
+B:\учебный проект\для примеров\C#Lessons\ListOfTrackAPI\ListOfTrackBLL\obj\Debug\netcoreapp3.1\ListOfTrackBLL.csproj.CoreCompileInputs.cache
+B:\учебный проект\для примеров\C#Lessons\ListOfTrackAPI\ListOfTrackBLL\obj\Debug\netcoreapp3.1\ListOfTrackBLL.csproj.CopyComplete
+B:\учебный проект\для примеров\C#Lessons\ListOfTrackAPI\ListOfTrackBLL\obj\Debug\netcoreapp3.1\ListOfTrackBLL.dll
+B:\учебный проект\для примеров\C#Lessons\ListOfTrackAPI\ListOfTrackBLL\obj\Debug\netcoreapp3.1\ListOfTrackBLL.pdb

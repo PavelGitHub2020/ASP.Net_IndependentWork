@@ -1,0 +1,223 @@
+{
+  "format": 1,
+  "restore": {
+    "B:\\учебный проект\\для примеров\\C#Lessons\\ListOfTrackAPI\\ListOfTrackBLL\\ListOfTrackBLL.csproj": {}
+  },
+  "projects": {
+    "B:\\учебный проект\\для примеров\\C#Lessons\\ListOfTrackAPI\\ListOfTrackBLL\\ListOfTrackBLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\учебный проект\\для примеров\\C#Lessons\\ListOfTrackAPI\\ListOfTrackBLL\\ListOfTrackBLL.csproj",
+        "projectName": "ListOfTrackBLL",
+        "projectPath": "B:\\учебный проект\\для примеров\\C#Lessons\\ListOfTrackAPI\\ListOfTrackBLL\\ListOfTrackBLL.csproj",
+        "packagesPath": "C:\\Users\\Pavav\\.nuget\\packages\\",
+        "outputPath": "B:\\учебный проект\\для примеров\\C#Lessons\\ListOfTrackAPI\\ListOfTrackBLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pavav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "B:\\учебный проект\\для примеров\\C#Lessons\\ListOfTrackAPI\\ListOfTrackDAL\\ListOfTrackDAL.csproj": {
+                "projectPath": "B:\\учебный проект\\для примеров\\C#Lessons\\ListOfTrackAPI\\ListOfTrackDAL\\ListOfTrackDAL.csproj"
+              },
+              "B:\\учебный проект\\для примеров\\C#Lessons\\ListOfTrackAPI\\ListOfTrackModels\\ListOfTrackModels.csproj": {
+                "projectPath": "B:\\учебный проект\\для примеров\\C#Lessons\\ListOfTrackAPI\\ListOfTrackModels\\ListOfTrackModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "B:\\учебный проект\\для примеров\\C#Lessons\\ListOfTrackAPI\\ListOfTrackDAL\\ListOfTrackDAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\учебный проект\\для примеров\\C#Lessons\\ListOfTrackAPI\\ListOfTrackDAL\\ListOfTrackDAL.csproj",
+        "projectName": "ListOfTrackDAL",
+        "projectPath": "B:\\учебный проект\\для примеров\\C#Lessons\\ListOfTrackAPI\\ListOfTrackDAL\\ListOfTrackDAL.csproj",
+        "packagesPath": "C:\\Users\\Pavav\\.nuget\\packages\\",
+        "outputPath": "B:\\учебный проект\\для примеров\\C#Lessons\\ListOfTrackAPI\\ListOfTrackDAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pavav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "B:\\учебный проект\\для примеров\\C#Lessons\\ListOfTrackAPI\\ListOfTrackModels\\ListOfTrackModels.csproj": {
+                "projectPath": "B:\\учебный проект\\для примеров\\C#Lessons\\ListOfTrackAPI\\ListOfTrackModels\\ListOfTrackModels.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "B:\\учебный проект\\для примеров\\C#Lessons\\ListOfTrackAPI\\ListOfTrackModels\\ListOfTrackModels.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "B:\\учебный проект\\для примеров\\C#Lessons\\ListOfTrackAPI\\ListOfTrackModels\\ListOfTrackModels.csproj",
+        "projectName": "ListOfTrackModels",
+        "projectPath": "B:\\учебный проект\\для примеров\\C#Lessons\\ListOfTrackAPI\\ListOfTrackModels\\ListOfTrackModels.csproj",
+        "packagesPath": "C:\\Users\\Pavav\\.nuget\\packages\\",
+        "outputPath": "B:\\учебный проект\\для примеров\\C#Lessons\\ListOfTrackAPI\\ListOfTrackModels\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pavav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

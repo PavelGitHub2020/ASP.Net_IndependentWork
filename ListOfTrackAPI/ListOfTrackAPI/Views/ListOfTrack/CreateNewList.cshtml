@@ -1,0 +1,15 @@
+﻿@model ListOfTrackBLL.VMs.ListOfTrack.CreateListOfTrack
+
+<h2>Создать</h2>
+<form method="get" asp-controller="Account" asp-action="List">
+
+    <div asp-validation-summary="ModelOnly"></div>
+    <div>
+        <label asp-for="Tracks"></label><br />
+        <input asp-for="Tracks" />
+        <span asp-validation-for="Tracks"></span>
+    </div>
+    <div>
+        <input type="submit" value="Создать" />
+    </div>
+</form>
